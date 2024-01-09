@@ -1,4 +1,4 @@
-## ⛳ The Golf Course Project
+## ⛳ Welcome to the Golf Course Project
 
 <!--
 
