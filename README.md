@@ -1,1 +1,1 @@
-# .github
+# The Golf Course Project
